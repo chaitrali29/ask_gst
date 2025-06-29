@@ -1,0 +1,19 @@
+streamlit
+python-dotenv
+langchain>=0.2.2
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+sentence-transformers
+langchain-huggingface>=0.0.5
+# LLM Integration via Groq API (OpenAI-compatible)
+langchain-openai>=0.1.7
+faiss-cpu
+# HTML/CSV Loader
+unstructured
+lxml
+beautifulsoup4
+pandas
+#speeds up unstructured HTML parsing
+html5lib
+#langchain warning parser
+tqdm
